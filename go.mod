@@ -1,6 +1,6 @@
 module github.com/9elements/go-linux-lowlevel-hw
 
-go 1.24.12
+go 1.22
 
 require (
 	github.com/digitalocean/go-smbios v0.0.0-20180907143718-390a4f403a8e
